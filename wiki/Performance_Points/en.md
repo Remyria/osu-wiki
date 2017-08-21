@@ -97,9 +97,9 @@ Let _PP_ represent each score's individual pp value. _PP\[i\]_ denotes the _i_th
 
 You can calculate the exact amount of this bonus by following this formula, where _N_ is the number of ranked maps with a score set:
 
-416.6667 \/ (1- 0.9994^_N_).
+416.6667(1- 0.9994^_N_).
 
-The median number of scores required to reach half of this bonus is roughly _1168_. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
+The median number of scores required to reach half of this bonus is roughly _1155_. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
 
 
 FAQ
